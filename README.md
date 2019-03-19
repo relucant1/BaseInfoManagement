@@ -8,7 +8,7 @@
 
 ## 联系方式
 - Email：relucant@163.com
-- Tel: 18166668767
+- Tel: 
 ---------
 ## 技能清单
 - Java，熟练度：![CWDxPK.png](https://s1.ax1x.com/2018/05/24/CWDxPK.png)![CWDxPK.png](https://s1.ax1x.com/2018/05/24/CWDxPK.png)![CWDxPK.png](https://s1.ax1x.com/2018/05/24/CWDxPK.png)![CWDxPK.png](https://s1.ax1x.com/2018/05/24/CWDxPK.png)
